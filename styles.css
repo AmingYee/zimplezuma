@@ -1,0 +1,21 @@
+#game-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ball {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.cannon-ball {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
